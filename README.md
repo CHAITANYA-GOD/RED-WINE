@@ -1,3 +1,3 @@
 # RED-WINE
 project for minor in ai
-wek
+week 3 going
