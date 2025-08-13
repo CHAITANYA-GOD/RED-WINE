@@ -25,7 +25,7 @@ logger = logging.getLogger()
 @st.cache_data
 def load_data():
     try:
-        data = pd.read_csv('winequality-red (1).csv')
+        data = pd.read_csv(r'C:\Users\Chaitanyaa\Desktop\LAPTOP TRANSFER\ML PROJECTS\RED WINE\winequality-red.csv')
         # Rename columns for better readability
         data.rename(columns={
             "fixed acidity": "fixed_acidity",
