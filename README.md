@@ -1,24 +1,10 @@
 # ⚡⚡ Red Wine Quality Prediction 🍷🍷
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CHAITANYA-GOD/RED-WINE)
-![GitHub repo size](https://img.shields.io/github/repo-size/Taweilo/Red_Wine_Quality_Classification_Model)
+![GitHub repo size](https://img.shields.io/github/repo-size/CHAITANYA-GOD/RED-WINE)
 ![Type of ML](https://img.shields.io/badge/Type%20of%20ML-Binary%20Classification-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
-* Statistics
- <img src="https://github.com/CHAITANYA-GOD/RED-WINE/blob/main/Image/2.1%20Data%20statistics.jpg" width="600" >
 
-* Correlation Heatmap
- <img src="https://github.com/CHAITANYA-GOD/RED-WINE/blob/main/Image/2.2%20Heatmap.jpg" width="400" >
-
-* Quality Distribution
- <img src="https://github.com/CHAITANYA-GOD/RED-WINE/blob/main/Image/2.3%20Quality%20distribution.jpg" width="400" >
-
-## 5. Evaluation
- <img src="https://github.com/CHAITANYA-GOD/RED-WINE/blob/main/Image/5.1%20Evaluation.jpg" width="500" >
-
-## 6. Recommendation
-* Business Value: <br>
-  <img src="https://github.com/CHAITANYA-GOD/RED-WINE/blob/main/Image/6.1%20Business%20value.jpg" width="600" >
 Badge [source](https://shields.io/)
 
 ![Red Wine](https://learn.wineenthusiast.com/wp-content/uploads/2019/09/HeaderImage.svg)
