@@ -1,4 +1,4 @@
-# ⚡⚡ Red Wine Quality Prediction 🍷🍷
+# ⚡⚡ Red Wine Quality Prediction 
 ![Python version](https://img.shields.io/badge/Python%20version-3.10%2B-lightgrey)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CHAITANYA-GOD/RED-WINE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/CHAITANYA-GOD/RED-WINE)
